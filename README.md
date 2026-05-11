@@ -1,10 +1,10 @@
 Repositório de Estudos em Java
 
-Bem-vindo ao meu repositório de estudos em Java.
+Bem-vindo ao meu repositório de estudos em Java!!
 
 Aqui eu organizo todos os meus projetos, exercícios e anotações enquanto aprendo e evoluo na linguagem. O objetivo é acompanhar meu progresso, reforçar conceitos e construir uma base sólida em programação.
 
-Conteúdo
+Conteúdo -
 
 Neste repositório você vai encontrar:
 
@@ -13,17 +13,17 @@ Neste repositório você vai encontrar:
 * Testes de conceitos
 * Anotações e experimentos
 
- Objetivo
+ Objetivo:
 
 Desenvolver minhas habilidades em Java, praticando lógica de programação, orientação a objetos e boas práticas de código.
 
-Tecnologias
+Tecnologias:
 
  Java
  IDEs como IntelliJ IDEA / VSCODE
 Git e GitHub
 
- Progresso
+ Progresso:
 
 Este repositório está em constante atualização conforme avanço nos estudos.
 
